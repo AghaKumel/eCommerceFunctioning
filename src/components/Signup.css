@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    background-color: rgb(97, 150, 150);
+    max-width: 100vw;
+}
+.font{
+    margin-left: 180px;
+    margin-bottom: 50px;
+}
+.subtn{
+    margin-left: 180px;
+}

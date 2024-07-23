@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #212529;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.ele1{
+    margin-right: 50px;
+}
+.footer a{
+    color: whitesmoke;
+    text-decoration: none;
+}
